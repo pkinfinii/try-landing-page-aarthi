@@ -1,0 +1,7 @@
+{
+  "name": "Aarthi Scans & Labs - Premium Health Hub",
+  "description": "An elegant, high-conversion landing page for Aarthi Scans and Labs, featuring advanced diagnostics, expert consultations, and an AI-powered health assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
